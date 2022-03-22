@@ -83,9 +83,7 @@ class Koki extends Orang {
 }
 
 
-
 public class Single {
-
     public static void main(String[] args) {
         // Class Orang
         System.out.println("Class Orang:\n");
