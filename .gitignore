@@ -1,0 +1,9 @@
+# java cache
+*.class
+
+# python cache
+__pycache__
+.mypy_cache
+
+# ignore vscode config
+.vscode
