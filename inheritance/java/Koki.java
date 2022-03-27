@@ -15,8 +15,6 @@ public class Koki extends Orang {
     }
 
     void keluarinMenu() {
-        for (int i = 0; i < dishes.size(); i++) {
-            System.out.println("Menu yang dikuasai: " + dishes.get(i));
-        }
+        System.out.println("Menu yang tersedia: " + String.join(", ", dishes));
     }
 }

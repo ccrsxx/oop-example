@@ -24,8 +24,6 @@ public class Programmer extends Orang {
     }
 
     void keluarinSkill() {
-        for (int i = 0; i < bahasa.size(); i++) {
-            System.out.println("Bahasa yang dikuasai: " + bahasa.get(i));
-        }
+        System.out.println("Bahasa yang dikuasai: " + String.join(", ", bahasa));
     }
 }

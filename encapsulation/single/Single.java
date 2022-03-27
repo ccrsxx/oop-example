@@ -4,7 +4,8 @@ class Belajar {
     public String x = "Pintar";
 
     /*
-     * private String y = "Belajar"; private: hanya bisa diakses di dalam class sendiri makanya
+     * private String y = "Belajar"; 
+     * private: hanya bisa diakses di dalam class sendiri makanya
      * diganti ke public
      */
 
